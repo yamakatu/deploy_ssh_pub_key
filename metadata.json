@@ -3,7 +3,7 @@
   "description": "deploy public key to .ssh",
   "long_description": "",
   "maintainer": "yamakatu",
-  "maintainer_email": "yamakatun@gmail.com",
+  "maintainer_email": "yamakatun@hotmail.co.jp",
   "license": "Apache 2.0",
   "platforms": {
     "redhat": ">= 0.0.0",

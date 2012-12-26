@@ -1,4 +1,4 @@
-# Author:: yamakatu(yamakatun@gmail.com)
+# Author:: yamakatu(yamakatun@hotmail.co.jp)
 #
 # Copyright 2012 yamakatu
 #
